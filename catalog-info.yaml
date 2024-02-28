@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-documentation
+  title: Sample documentation
+  description: An example of documentation
+  annotations:
+    github.com/project-slug: bcgov/devhub-user-test-participant-4
+    backstage.io/techdocs-ref: dir:.
+    bcgovpubcode.gov.bc.ca/ministry: CITZ
+    bcgovpubcode.gov.bc.ca/program_area: BC Stats
+    bcgovpubcode.gov.bc.ca/product_name: new product
+    bcgovpubcode.gov.bc.ca/product_owner: Stephanie Yurchak
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/bcstats
