@@ -1,11 +1,11 @@
 version: 1
 data_management_roles:
-  product_owner: Stephanie Yurchak
+  product_owner: 
 product_information:
-  ministry: CITZ
+  ministry: 
   product_acronym: 
-  product_description: An example of documentation
-  product_name: new product
-  program_area: BC Stats
+  product_description: OMG These docs are crazy good
+  product_name: 
+  program_area: 
 product_technology_information:
-  hosting_platforms: Not-Applicable
+  hosting_platforms: Private-Cloud-Openshift

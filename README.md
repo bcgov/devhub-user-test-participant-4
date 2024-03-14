@@ -1,9 +1,9 @@
 [![Package Status](https://github.com/bcgov/devhub-user-test-participant-4/actions/workflows/publish.yaml/badge.svg)](https://github.com/bcgov/devhub-user-test-participant-4/actions/workflows/publish.yaml)
 
 
-# sample-documentation
+# my-amazing-docs
 
-An example of documentation
+OMG These docs are crazy good
 
 ## About
 

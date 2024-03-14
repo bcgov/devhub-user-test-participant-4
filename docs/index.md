@@ -1,6 +1,6 @@
-## Sample documentation
+## My amazing docs
 
-An example of documentation
+OMG These docs are crazy good
 
 ## Getting started
 
